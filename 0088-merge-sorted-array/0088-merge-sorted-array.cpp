@@ -5,7 +5,7 @@ public:
     int i =0;
         int j=0;
         int l=0;
-        while(i<m && j<n &&n>0 && m>0){
+        while(i<m && j<n){
             if(nums1[i]<=nums2[j] ){result[l++]=nums1[i];i++;}
             else if(nums1[i]>nums2[j]){result[l++]=nums2[j];j++;}
         }
