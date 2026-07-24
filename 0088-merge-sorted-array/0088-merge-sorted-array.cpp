@@ -9,9 +9,6 @@ public:
             if(nums1[i]>=nums2[j] ){nums1[l--]=nums1[i];i--;}
             else if(nums1[i]<nums2[j]){nums1[l--]=nums2[j];j--;}
         }
-        while(i>=0){
-            nums1[l--]=nums1[i--];
-        }
     while(j>=0){
         nums1[l--]=nums2[j--];
     }
