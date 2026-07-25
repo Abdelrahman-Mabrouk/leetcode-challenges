@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
 | ------- |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0155-min-stack) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
