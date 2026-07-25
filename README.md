@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0485-max-consecutive-ones) |
 | [0739-daily-temperatures](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0739-daily-temperatures) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0347-top-k-frequent-elements) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Math
 |  |
 | ------- |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0011-container-with-most-water) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Stack
 |  |
 | ------- |
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0268-missing-number) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Database
 |  |
 | ------- |
@@ -181,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0238-product-of-array-except-self) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
