@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0197-rising-temperature) |
+| [0584-find-customer-referee](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0584-find-customer-referee) |
 ## Prefix Sum
 |  |
 | ------- |
