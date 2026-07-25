@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
 | ------- |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0197-rising-temperature) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
