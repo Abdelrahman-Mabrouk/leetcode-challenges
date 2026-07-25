@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
