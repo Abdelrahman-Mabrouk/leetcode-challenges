@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0485-max-consecutive-ones) |
+| [0739-daily-temperatures](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0739-daily-temperatures) |
 ## Divide and Conquer
 |  |
 | ------- |
