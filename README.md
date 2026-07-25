@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0009-palindrome-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
