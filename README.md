@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0053-maximum-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0042-trapping-rain-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
