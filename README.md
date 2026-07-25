@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0084-largest-rectangle-in-histogram) |
 ## Linked List
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0084-largest-rectangle-in-histogram) |
 ## Divide and Conquer
 |  |
 | ------- |
