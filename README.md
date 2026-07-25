@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0128-longest-consecutive-sequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
