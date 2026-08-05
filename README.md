@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0238-product-of-array-except-self) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0268-missing-number) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0268-missing-number) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
@@ -200,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -209,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0509-fibonacci-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
