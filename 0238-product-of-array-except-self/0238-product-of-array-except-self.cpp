@@ -1,27 +1,21 @@
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
-  int n = nums.size();
-        vector<int> result(n, 1);
-        
-        int prefix = 1;
-        for (int i = 0; i < n; i++) {
-            result[i] = prefix;
-            prefix = prefix * nums[i];
+        long long res=0 ;
+        int idx = -1;
+        if(nums[0]!=0 || nums[1]!=0)res=1;
+        if(count(nums.begin(), nums.end(), 0)> 1 ){fill(nums.begin(), nums.end(), 0);
+        return nums;} 
+        for(int i =0 ;i<nums.size();i++){
+            if(nums[i]!=0)res *=nums[i]; 
+            else idx = i;
         }
-        
-        int postfix = 1;
-        for (int i = n - 1; i >= 0; i--) {
-            result[i] = result[i] * postfix;
-            postfix = postfix * nums[i];
+        for(int i =0 ;i<nums.size();i++){
+            if(nums[i]!=0 && idx!= -1 ) nums[i] = 0;
+            else if(nums[i]!=0)nums[i] = res /nums[i] ; 
+            else nums[i] = res;
+
+        }    
+        return nums;
         }
-        
-        return result;
-    }
 };
-auto init=[](){
-    ios_base::sync_with_stdio(0);
-    cin.tie(0);
-    cout.tie(0);
-    return 0;
-}();
