@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0380-insert-delete-getrandom-o1) |
 | [0485-max-consecutive-ones](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0485-max-consecutive-ones) |
 | [0739-daily-temperatures](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0739-daily-temperatures) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0380-insert-delete-getrandom-o1) |
 ## String
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0155-min-stack) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0380-insert-delete-getrandom-o1) |
 ## Binary Search
 |  |
 | ------- |
@@ -233,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0274-h-index) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Abdelrahman-Mabrouk/leetcode-challenges/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
