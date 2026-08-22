@@ -1,9 +1,8 @@
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
-        long long res=0 ;
+        long long res=1 ;
         int idx = -1;
-        if(nums[0]!=0 || nums[1]!=0)res=1;
         if(count(nums.begin(), nums.end(), 0)> 1 ){fill(nums.begin(), nums.end(), 0);
         return nums;} 
         for(int i =0 ;i<nums.size();i++){
