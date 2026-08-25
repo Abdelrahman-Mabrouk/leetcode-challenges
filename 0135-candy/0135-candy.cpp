@@ -14,7 +14,7 @@ public:
                 down = 1;
                 up++;
                 peak = up;
-                res +=  up;
+                res += up;
             }
             else if (ratings[i] == ratings[i - 1]) {
                 up = 1;
