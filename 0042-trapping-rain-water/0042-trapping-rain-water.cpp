@@ -1,22 +1,50 @@
 class Solution {
 public:
     int trap(vector<int>& height) {
-     cin.tie(0);
-    cout.tie(0);
-    ios::sync_with_stdio(0);
-    int l = 0, r = height.size() - 1, res = 0 ;
-    int maxleft = height[l], maxright = height[r];
-    while (l < r) {
-        if (maxleft <= maxright) {
-            l++;
-            maxleft = max(height[l], maxleft);
-            res += maxleft - height[l];
-        } else {
-            r--;
-            maxright = max(height[r], maxright);
-            res  += maxright - height[r];
+        int size = height.size();
+        stack<int>stack;
+        int a[size];
+        int sum = 0;
+
+        stack.push(0);
+        a[0]=-1;
+        int count =1;
+        int j=0;
+        int b =0;
+
+        for (int i = 1; i < size; ++i) {
+            if(height[i]> height[stack.top()]){
+                while(!stack.empty() && height[i]> height[stack.top()]){
+                    a[stack.top()] = height[i];
+                    stack.pop();
+                }
+                stack.push(i);
+                a[i] = -1;
+
+            }
+            else{
+            stack.push(i);
+            a[stack.top()] = -1;
+            }
         }
-    }
-        return res;
-    }
-};
+        int mx=height[size-1];
+        for (int i = size-2; i >= 0; i--) {
+            mx = max(mx,height[i+1]);
+            if(a[i]==-1){
+                a[i]=mx;
+            }
+        }
+        for (int i = 1; i < size; ++i) {
+            if(height[i] != a[j] ){
+               sum+= (min(height[j],a[j])-height[i]);
+            }
+
+            else{
+                count =1;
+                b= j;
+                j = i;
+            }
+        }
+        return sum;
+        }
+    };
