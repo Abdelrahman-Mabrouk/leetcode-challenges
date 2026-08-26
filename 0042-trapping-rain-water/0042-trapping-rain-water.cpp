@@ -1,3 +1,4 @@
+
 class Solution {
 public:
     int trap(vector<int>& height) {
@@ -8,9 +9,7 @@ public:
 
         stack.push(0);
         a[0]=-1;
-        int count =1;
         int j=0;
-        int b =0;
 
         for (int i = 1; i < size; ++i) {
             if(height[i]> height[stack.top()]){
@@ -40,8 +39,6 @@ public:
             }
 
             else{
-                count =1;
-                b= j;
                 j = i;
             }
         }
