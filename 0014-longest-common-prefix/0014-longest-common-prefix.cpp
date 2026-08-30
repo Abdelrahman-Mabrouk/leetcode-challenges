@@ -2,8 +2,7 @@ class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
         string s = strs[0], res = "";
-        int count = 0,mn=201;
-        if (strs.size() == 1)return s;
+        int count = 0,mn=s.size();
             for (int i =1; i < strs.size(); ++i) {
                 for (int k = 0; k < strs[i].size(); ++k) {
                    if (s[k] == strs[i][k]) {
@@ -15,9 +14,7 @@ public:
                 count =0;
             }
 
-        for (int i = 0; i < mn; ++i) {
-            res+=s[i];
-        }
-        return res;
+
+        return s.substr(0, mn);
     }
 };
