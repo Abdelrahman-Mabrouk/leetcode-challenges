@@ -1,18 +1,15 @@
 class Solution {
 public:
     string intToRoman(int n) {
-        map<int, string> m = {
-                {1, "I"}, {4, "IV"}, {5, "V"}, {9, "IX"}, {10, "X"},
-                {40, "XL"}, {50, "L"}, {90, "XC"}, {100, "C"},
-                {400, "CD"}, {500, "D"}, {900, "CM"}, {1000, "M"}
-        };
-
+        vector<pair<int, string>> m {{1000, "M"}, {900, "CM"}, {500, "D"}, {400, "CD"}, {100, "C"},
+                {90, "XC"},  {50, "L"},   {40, "XL"}, {10, "X"},   {9, "IX"},
+                {5, "V"},    {4, "IV"},   {1, "I"}};
         string res = "";
-        for (auto i = m.rbegin(); i != m.rend(); ++i) {
-            while (n >= i->first) {
-                res += i->second;
-                n -= i->first;
-            }
+        for (auto i = m.begin(); i != m.end() ; ++i) {
+                while(n>=i->first){
+                    res+=i->second;
+                    n-=i->first;
+                }
         }
         return res;
 
